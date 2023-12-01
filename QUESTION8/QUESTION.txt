@@ -1,0 +1,2 @@
+QUESTION 8 : Create a table to display a conference schedule. Each row corresponds to a time slot, and each column orresponds 
+to a room.Some times slot might have multiple session running simultaneously in different rooms.Utilize rowspan and colspan attributes as necessary to accomodate this complex schedule.

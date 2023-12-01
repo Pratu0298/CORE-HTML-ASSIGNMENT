@@ -1,0 +1,1 @@
+QUESTION 6 : Create an ordered list of the full stack development tech stacks HTML,CSS, and JS for each tech stack.Create a table that lists the tecch stacks name, its primary use cases, and some key features or benifits.

@@ -1,0 +1,1 @@
+QUESTION 3:Build a simple blog page with 3 pages home,web development, and web design. Each page must contain hyperlink to other pages in the top, a heading of the page topic and paragraph information.For the home page you can add some information about yourself. 

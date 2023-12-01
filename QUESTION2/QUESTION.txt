@@ -1,0 +1,3 @@
+QUESTION 2:Build a simple webpage that helps user to nevigate different
+web development-releted websites.
+NOTE: On clicking hyperlink the web pages should open in new tab.
